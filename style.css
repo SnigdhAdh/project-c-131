@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+}
+
+a{
+    padding: 50px;
+    font-size: 25px;
+    border-radius: 50px;
+}
